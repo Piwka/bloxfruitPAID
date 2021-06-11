@@ -1,0 +1,3 @@
+getgenv().key = "jZzg5DD4Oqnw"
+getgenv().id = "798180552804139018"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Hentai/main/Hentai%20XXX"))()
